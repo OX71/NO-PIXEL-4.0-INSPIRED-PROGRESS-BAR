@@ -1,4 +1,4 @@
-This is QBCore Progressbar edited by me and inspired by NoPixel 4.0.
+# This is QBCore Progressbar edited by me and inspired by NoPixel 4.0.
 Ox_lib integration tutorial DOWN HERE
 To integrate QBCore progressbar into ox_lib
 First go into ox_lib/resource/interface/client/progress.lua
